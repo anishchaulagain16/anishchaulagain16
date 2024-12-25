@@ -26,7 +26,14 @@ _"Passionate Flutter Developer dedicated to crafting exceptional mobile experien
 ## 📊 GitHub Stats
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anishchaulagain16&theme=tokyonight" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=anishchaulagain16&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <!-- Commit Badge -->
+<img src="https://img.shields.io/github/commit-activity/m/ankaEK/aok-connect?label=Commits&theme=tokyonight" alt="Commits" />
+
+<!-- Pull Requests Badge -->
+<img src="https://img.shields.io/github/issues-pr-closed/ankaEK/aok-connect?label=Closed%20PRs&theme=tokyonight" alt="Pull Requests" />
+
+<!-- Issues Badge -->
+<img src="https://img.shields.io/github/issues-closed/ankaEK/aok-connect?label=Closed%20Issues&theme=tokyonight" alt="Issues" />
 
 </p>
 
