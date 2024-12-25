@@ -25,12 +25,8 @@ _"Passionate Flutter Developer dedicated to crafting exceptional mobile experien
 
 ## 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=anishchaulagain16&repo=aok-connect&theme=tokyonight" alt="Repository Stats for aok-connect" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anishchaulagain16&theme=tokyonight" alt="GitHub Streak" />
 </p>
-
----
-
 
 ---
 
