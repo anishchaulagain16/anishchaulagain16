@@ -21,6 +21,14 @@ _"Passionate Flutter Developer dedicated to crafting exceptional mobile experien
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
+## Contributions by Anish Chaulagain
+
+- **Commits:** 45 (out of 200 total commits)
+- **Lines of Code Added:** 1,500+
+- **Issues Opened:** 5
+- **Pull Requests Merged:** 3
+
+[View Profile](https://github.com/anishchaulagain16)
 
 ## 📊 GitHub Stats
 <p align="center">
