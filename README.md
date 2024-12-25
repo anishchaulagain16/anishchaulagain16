@@ -31,7 +31,7 @@ _"Passionate Flutter Developer dedicated to crafting exceptional mobile experien
 ---
 
 ## 🌐 Let's Connect!
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/anish-c-a9a202218/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:chaulagainanish16@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
