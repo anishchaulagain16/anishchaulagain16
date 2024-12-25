@@ -26,6 +26,8 @@ _"Passionate Flutter Developer dedicated to crafting exceptional mobile experien
 ## 📊 GitHub Stats
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anishchaulagain16&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anishchaulagain16&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+
 </p>
 
 ---
