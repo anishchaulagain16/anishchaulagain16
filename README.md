@@ -7,7 +7,7 @@
 **Flutter Developer**  
 _"Passionate Flutter Developer dedicated to crafting exceptional mobile experiences through innovation and collaboration."_
 
-📍 **Kathmandu 44600, Nepal**  
+📍 **Address:** Kathmandu, Nepal  
 📱 **Phone:** +9779865499496  
 📧 **Email:** [chaulagainanish16@gmail.com](mailto:chaulagainanish16@gmail.com)  
 🌐 **LinkedIn:** [linkedin.com/in/anish-c-a9a202218](https://www.linkedin.com/in/anish-c-a9a202218/)
