@@ -62,8 +62,13 @@ _"Passionate Flutter Developer dedicated to crafting exceptional mobile experien
 
 
 <br />
-<p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmFyZHU4cGV3cjlnY2hvZ2xseGVyeDc4amRuY2Q3dTZnOW84YXV2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7Q7ZfoCALUs9CzNVHe/giphy.gif" width = "200" height ="200" radius = "100" alt="Fun Fact" />
+
+<p align="left">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmFyZHU4cGV3cjlnY2hvZ2xseGVyeDc4amRuY2Q3dTZnOW84YXV2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7Q7ZfoCALUs9CzNVHe/giphy.gif" 
+  width="150" 
+  height="150" 
+  style="border-radius:50%;" 
+  alt="Fun Fact" />
 </p>
 
 
