@@ -61,8 +61,9 @@ _"Passionate Flutter Developer dedicated to crafting exceptional mobile experien
 > "Flutter developers don’t just build apps, they craft experiences!" ✨
 
 
-<p align="left">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmFyZHU4cGV3cjlnY2hvZ2xseGVyeDc4amRuY2Q3dTZnOW84YXV2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7Q7ZfoCALUs9CzNVHe/giphy.gif" width=200 alt="Fun" />
+<br />
+<p align="center">
+  <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=cat&logoColor=white&color=black&label=&labelColor=black&text=Fun&logoWidth=50&content=https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmFyZHU4cGV3cjlnY2hvZ2xseGVyeDc4amRuY2Q3dTZnOW84YXV2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7Q7ZfoCALUs9CzNVHe/giphy.gif" alt="Oval Cat" />
 </p>
 
 
