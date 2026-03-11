@@ -48,10 +48,9 @@ _"Passionate Flutter Developer dedicated to crafting exceptional mobile experien
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anishchaulagain16&theme=tokyonight" alt="GitHub Streak" />
 </p>
-### 📂 Featured Projects
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ankaEK&repo=connect_persona&theme=tokyonight&show_owner=true" alt="Connect Persona Project" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=anishch16&limit=1&theme=tokyonight&combine_all_yearly_contributions=true" alt="Connect Persona Stats" />
 </p>
 
 ## 🌐 Let's Connect!
