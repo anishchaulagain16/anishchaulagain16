@@ -49,8 +49,6 @@ _"Passionate Flutter Developer dedicated to crafting exceptional mobile experien
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anishchaulagain16&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-<img src="https://github-stats-extended.vercel.app/api?username=anishchaulagain16&show_icons=true&theme=tokyonight" />
-
 ## 🌐 Let's Connect!
 <p align="left">
   <a href="https://www.linkedin.com/in/anish-c-a9a202218/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
