@@ -50,11 +50,6 @@ _"Passionate Flutter Developer dedicated to crafting exceptional mobile experien
 </p>
 ### 📈 Detailed Contribution Breakdown
 
-### 🗓️ Working History Streak
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anishchaulagain16&theme=tokyonight&starting_year=2024" alt="GitHub Streak" />
-</p>
-
 ## 🌐 Let's Connect!
 <p align="left">
   <a href="https://www.linkedin.com/in/anish-c-a9a202218/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
