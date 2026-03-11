@@ -50,10 +50,10 @@ _"Passionate Flutter Developer dedicated to crafting exceptional mobile experien
 </p>
 ### 📈 Detailed Contribution Breakdown
 
-### 📈 Detailed Contribution Breakdown (2024 - 2026)
-
-<img src="https://github-readme-stats.vercel.app/api?username=anishch16&show_icons=true&theme=tokyonight&show=prs_merged,reviews&hide=stars&include_all_commits=true&count_private=true" alt="Anish Stats" />
----
+### 🗓️ Working History Streak
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anishchaulagain16&theme=tokyonight&starting_year=2024" alt="GitHub Streak" />
+</p>
 
 ## 🌐 Let's Connect!
 <p align="left">
