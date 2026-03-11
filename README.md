@@ -60,9 +60,9 @@ _"Passionate Flutter Developer dedicated to crafting exceptional mobile experien
 ## 🌟 Fun Fact
 > "Flutter developers don’t just build apps, they craft experiences!" ✨
 
-<p align="left">
-  <a href="[https://www.youtube.com/shorts/BCKWwqwFwFM](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmFyZHU4cGV3cjlnY2hvZ2xseGVyeDc4amRuY2Q3dTZnOW84YXV2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7Q7ZfoCALUs9CzNVHe/giphy.gif)">
-    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmFyZHU4cGV3cjlnY2hvZ2xseGVyeDc4amRuY2Q3dTZnOW84YXV2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7Q7ZfoCALUs9CzNVHe/giphy.gif" alt="Watch the video" width="600">
 
+<p align="left">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmFyZHU4cGV3cjlnY2hvZ2xseGVyeDc4amRuY2Q3dTZnOW84YXV2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7Q7ZfoCALUs9CzNVHe/giphy.gif" width=200 alt="Fun" />
 </p>
+
 
