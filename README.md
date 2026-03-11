@@ -50,13 +50,9 @@ _"Passionate Flutter Developer dedicated to crafting exceptional mobile experien
 </p>
 ### 📂 Featured Projects
 
-<table border="0">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=anishchaulagain16&repo=connect_persona&theme=tokyonight&show_owner=true" />
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ankaEK&repo=connect_persona&theme=tokyonight&show_owner=true" alt="Connect Persona Project" />
+</p>
 
 ## 🌐 Let's Connect!
 <p align="left">
