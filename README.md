@@ -60,3 +60,9 @@ _"Passionate Flutter Developer dedicated to crafting exceptional mobile experien
 ## 🌟 Fun Fact
 > "Flutter developers don’t just build apps, they craft experiences!" ✨
 
+<p align="left">
+  <a href="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajJpZ3ZoMDB2ZTgydmVxcmp3d3M3cGxpeHY3bHdsdDcwNHRobm92aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/dUQL2bKltOU7cO9Maw/giphy.gif">
+    <img src="https://img.youtube.com/vi/INSERT_VIDEO_ID/0.jpg" alt="Watch the video" width="600">
+  </a>
+</p>
+
