@@ -87,12 +87,11 @@ Jan 2023 → Apr 2024  ●──── Flutter Developer · Ayata Incorporation
 <div align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anishchaulagain16&theme=tokyonight&hide_border=true" alt="streak" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishchaulagain16&layout=compact&theme=tokyonight&hide_border=true" alt="top langs" />
 </div>
 
 ---
 
-<div align="center">
+<div align="left">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anish-c-a9a202218)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chaulagainanish16@gmail.com)
