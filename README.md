@@ -59,13 +59,19 @@
 ## Timeline
 
 ```
-Apr 2024 → now   ●──── Flutter Developer · Ankaek Pvt. Ltd.
-                        a-OK · Connect Persona · Lahv+ Parking
+```txt
+Apr 2024 → now    │
+                  └── Flutter Developer · Ankaek Pvt. Ltd.
+                      a-OK · Connect Persona · Lahv+ Parking
+                  
+Jan 2023 → Apr 2024 │
+                    └── Flutter Developer · Ayata Incorporation
+                        Dishhome · AshaConnect · Kilindar
+                    
+2021 → Sep 2025   │
+                  └── BSc. CSIT · Tribhuvan University
+```
 
-Jan 2023 → Apr 2024  ●──── Flutter Developer · Ayata Incorporation
-                             Dishhome · AshaConnect · Kilindar
-
-2021 → Sep 2025  ●──── BSc. CSIT · Tribhuvan University
 ```
 
 ---
