@@ -1,97 +1,101 @@
+<div align="center">
+
 # Anish Chaulagain
-**Flutter Developer · Mobile App Engineer**
 
-![Profile Views](https://komarev.com/ghpvc/?username=anishchaulagain16&color=blueviolet&style=flat-square)
-![GitHub Followers](https://img.shields.io/github/followers/anishchaulagain16?style=flat-square&color=blueviolet)
+`Flutter Dev` · `Clean Architecture` · `Kathmandu, NP`
 
-Building production-grade iOS & Android apps with Flutter. Focused on clean architecture, scalable state management, and shipping experiences that real users rely on — from media streaming platforms to healthcare data tools across Nepal.
+[![Profile Views](https://komarev.com/ghpvc/?username=anishchaulagain16&style=flat-square&color=1D9E75&label=profile+views)](https://github.com/anishchaulagain16)
+[![GitHub Followers](https://img.shields.io/github/followers/anishchaulagain16?style=flat-square&color=7F77DD&label=followers)](https://github.com/anishchaulagain16)
+![Status](https://img.shields.io/badge/status-open%20to%20remote-1D9E75?style=flat-square)
+![Experience](https://img.shields.io/badge/experience-3%2B%20years-378ADD?style=flat-square)
+![Platform](https://img.shields.io/badge/platform-iOS%20%26%20Android-D85A30?style=flat-square)
 
-📍 Kathmandu, Nepal &nbsp;·&nbsp; 📧 [chaulagainanish16@gmail.com](mailto:chaulagainanish16@gmail.com) &nbsp;·&nbsp; 💼 [linkedin.com/in/anish-c-a9a202218](https://linkedin.com/in/anish-c-a9a202218)
-
----
-
-## Stack & Skills
-
-| Area | Technologies |
-|---|---|
-| **Core** | Flutter, Dart, iOS, Android |
-| **State Management** | BLoC, Cubit, Riverpod, GetX |
-| **Architecture** | Clean Architecture, MVVM, MVC, Repository Pattern |
-| **Backend & Networking** | REST APIs, Dio, Firebase (FCM, Auth, Firestore), WebSocket |
-| **Data & Auth** | SQLite (sqflite), Hive, SharedPreferences, JWT, OAuth 2.0 |
-| **Payments & Maps** | Khalti, eSewa, Google Maps API, Real-Time Location |
-| **Hardware** | Bluetooth Printer, QR Scanner, Camera |
-| **Navigation** | GoRouter, Navigator 2.0 |
-| **QA & Tooling** | Unit Testing, Widget Testing, Mockito, Git, Postman, Firebase App Distribution |
+</div>
 
 ---
 
-## Experience
+## Stack
 
-### Flutter Developer — Ankaek Pvt. Ltd.
-`Apr 2024 – Present`
+<div align="center">
 
-**a-OK · Connect Persona · Lahv+ Parking**
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-- Built feed and story view modules with infinite scroll pagination and BLoC-driven like/reaction state for a-OK's social gratitude platform
-- Implemented multi-persona dashboard with encrypted storage (`flutter_secure_storage`), Firebase Auth, and GoRouter navigation in Connect Persona
-- Developed Bluetooth thermal printer integration and Khalti payment gateway for Lahv+ Parking's end-to-end vehicle registration and invoicing flow
+**State Management**
+
+![BLoC](https://img.shields.io/badge/BLoC-0073E6?style=flat-square&logo=flutter&logoColor=white)
+![Cubit](https://img.shields.io/badge/Cubit-0277BD?style=flat-square&logo=flutter&logoColor=white)
+![Riverpod](https://img.shields.io/badge/Riverpod-1D9E75?style=flat-square&logo=flutter&logoColor=white)
+![GetX](https://img.shields.io/badge/GetX-7F77DD?style=flat-square&logo=flutter&logoColor=white)
+
+**Architecture & Tools**
+
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-2C2C2A?style=flat-square)
+![GoRouter](https://img.shields.io/badge/GoRouter-378ADD?style=flat-square)
+![Dio](https://img.shields.io/badge/Dio-D85A30?style=flat-square)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Khalti](https://img.shields.io/badge/Khalti-5C2D91?style=flat-square)
+![eSewa](https://img.shields.io/badge/eSewa-60BB46?style=flat-square)
+
+</div>
 
 ---
 
-### Flutter Developer — Ayata Incorporation
-`Jan 2023 – Apr 2024`
+## Apps Shipped
 
-**Dishhome (10,000+ users) · AshaConnect · Kilindar**
+| App | Company | Domain | Highlight |
+|---|---|---|---|
+| **Connect Persona** | Ankaek | Multi-identity profiles | Encrypted storage · GoRouter · BLoC |
+| **a-OK** | Ankaek | Social gratitude | Infinite scroll · FCM · Cubit |
+| **Lahv+ Parking** | Ankaek | Fintech / Parking | BT thermal printer · Khalti |
+| **Dishhome** | Ayata | Media streaming | 10,000+ users · MVVM · Google Maps |
+| **AshaConnect** | Ayata | Rural healthcare | Offline-first · SQLite · GetX |
+| **Kilindar** | Ayata | Bus booking | Dio · REST · seat layout UI |
 
-- Built scalable features for a high-traffic media streaming app using clean architecture + MVVM, with Google Sign-In and Google Maps integration
-- Developed offline-first rural healthcare data collection app using GetX + SQLite with background sync for low-connectivity environments
-- Diagnosed complex bus seat layout rendering bugs and integrated real-time REST APIs using Dio for Kilindar
+---
+
+## Timeline
+
+```
+Apr 2024 → now   ●──── Flutter Developer · Ankaek Pvt. Ltd.
+                        a-OK · Connect Persona · Lahv+ Parking
+
+Jan 2023 → Apr 2024  ●──── Flutter Developer · Ayata Incorporation
+                             Dishhome · AshaConnect · Kilindar
+
+2021 → Sep 2025  ●──── BSc. CSIT · Tribhuvan University
+```
 
 ---
 
 ## Projects
 
-### [Gantabya](https://github.com/anishchaulagain16) — Travel Planner App
-Trip cost calculator and travel planner for Nepal integrating hotel, destination, and route APIs.
-`Flutter · Django · MySQL`
+<div align="center">
 
-### [Taycoo](https://github.com/anishchaulagain16) — Warehouse Inventory Management
-Furniture inventory tracking with QR scanner and Bluetooth thermal printer for on-site invoice generation.
-`Flutter · GetX · mobile_scanner`
+[![Gantabya](https://img.shields.io/badge/Gantabya-travel%20planner%20app-1D9E75?style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/anishchaulagain16)
+[![Taycoo](https://img.shields.io/badge/Taycoo-warehouse%20inventory-7F77DD?style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/anishchaulagain16)
+[![Bus App](https://img.shields.io/badge/Bus_Booking-seat%20booking%20app-378ADD?style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/anishchaulagain16)
 
-### Bus Booking App — Cross-Platform Ticket Booking
-Interactive seat selection UI, Riverpod state management, and Khalti/eSewa payment gateway integration.
-`Flutter · Riverpod · Khalti · eSewa`
-
----
-
-## At a Glance
-
-| | |
-|---|---|
-| 🏗️ **3+ years** professional experience | 📦 **6** production apps shipped |
-| 👥 **10,000+** real users served | 🔧 **4** state management libraries |
-
----
-
-## Education
-
-**BSc. Computer Science & Information Technology**
-Tribhuvan University, Madan Bhandari Memorial College · 2021 – Sep 2025
+</div>
 
 ---
 
 ## GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anishchaulagain16&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anishchaulagain16&theme=tokyonight&hide_border=true" alt="streak" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishchaulagain16&layout=compact&theme=tokyonight&hide_border=true" alt="top langs" />
+</div>
 
 ---
 
-## Let's Connect
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/anish-c-a9a202218)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:chaulagainanish16@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/anishchaulagain16)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anish-c-a9a202218)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chaulagainanish16@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anishchaulagain16)
+
+</div>
