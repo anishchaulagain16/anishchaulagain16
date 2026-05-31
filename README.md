@@ -16,7 +16,7 @@
 
 ## Stack
 
-<div align="center">
+<div align="left">
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
@@ -72,7 +72,7 @@ Jan 2023 → Apr 2024  ●──── Flutter Developer · Ayata Incorporation
 
 ## Projects
 
-<div align="center">
+<div align="left">
 
 [![Gantabya](https://img.shields.io/badge/Gantabya-travel%20planner%20app-1D9E75?style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/anishchaulagain16)
 [![Taycoo](https://img.shields.io/badge/Taycoo-warehouse%20inventory-7F77DD?style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/anishchaulagain16)
@@ -84,7 +84,7 @@ Jan 2023 → Apr 2024  ●──── Flutter Developer · Ayata Incorporation
 
 ## GitHub Stats
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anishchaulagain16&theme=tokyonight&hide_border=true" alt="streak" />
   <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishchaulagain16&layout=compact&theme=tokyonight&hide_border=true" alt="top langs" />
